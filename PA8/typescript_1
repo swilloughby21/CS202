@@ -1,0 +1,204 @@
+Script started on Wed 01 Apr 2015 09:28:57 PM PDT
+]0;swilloughby@ecc-a-11vm14: ~/Documents/PA8swilloughby@ecc-a-11vm14:~/Documents/PA8$ exit./PA8[1Pmake
+make: Nothing to be done for `all'.
+]0;swilloughby@ecc-a-11vm14: ~/Documents/PA8swilloughby@ecc-a-11vm14:~/Documents/PA8$ makeexit./PA8
+How many players (2-8) : 4
+
+   Menu
+
+1. Shuffle
+2. Print Suffled Deck
+3. Print Unshuffled Deck
+4. Print Player Info
+5. Quit
+Enter Selection: 1
+   Menu
+
+1. Shuffle
+2. Print Suffled Deck
+3. Print Unshuffled Deck
+4. Print Player Info
+5. Quit
+Enter Selection: 2
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+suit rank location
+   Menu
+
+1. Shuffle
+2. Print Suffled Deck
+3. Print Unshuffled Deck
+4. Print Player Info
+5. Quit
+Enter Selection: 3
+heart 2 unshuffled
+heart 3 unshuffled
+heart 4 unshuffled
+heart 5 unshuffled
+heart 6 unshuffled
+heart 7 unshuffled
+heart 8 unshuffled
+heart 9 unshuffled
+heart 10 unshuffled
+heart jack unshuffled
+heart queen unshuffled
+heart king unshuffled
+heart ace unshuffled
+club 2 unshuffled
+club 3 unshuffled
+club 4 unshuffled
+club 5 unshuffled
+club 6 unshuffled
+club 7 unshuffled
+club 8 unshuffled
+club 9 unshuffled
+club 10 unshuffled
+club jack unshuffled
+club queen unshuffled
+club king unshuffled
+club ace unshuffled
+diamond 2 unshuffled
+diamond 3 unshuffled
+diamond 4 unshuffled
+diamond 5 unshuffled
+diamond 6 unshuffled
+diamond 7 unshuffled
+diamond 8 unshuffled
+diamond 9 unshuffled
+diamond 10 unshuffled
+diamond jack unshuffled
+diamond queen unshuffled
+diamond king unshuffled
+diamond ace unshuffled
+spade 2 unshuffled
+spade 3 unshuffled
+spade 4 unshuffled
+spade 5 unshuffled
+spade 6 unshuffled
+spade 7 unshuffled
+spade 8 unshuffled
+spade 9 unshuffled
+spade 10 unshuffled
+spade jack unshuffled
+spade queen unshuffled
+spade king unshuffled
+spade ace unshuffled
+   Menu
+
+1. Shuffle
+2. Print Suffled Deck
+3. Print Unshuffled Deck
+4. Print Player Info
+5. Quit
+Enter Selection: 4
+Marshall Ericksen 0
+suit rank location
+
+suit rank location
+
+suit rank location
+
+suit rank location
+
+suit rank location
+
+Ted Mosby 0
+suit rank location
+
+suit rank location
+
+suit rank location
+
+suit rank location
+
+suit rank location
+
+Barney Stinsen 0
+suit rank location
+
+suit rank location
+
+suit rank location
+
+suit rank location
+
+suit rank location
+
+Merideth Grey 0
+suit rank location
+
+suit rank location
+
+suit rank location
+
+suit rank location
+
+suit rank location
+
+   Menu
+
+1. Shuffle
+2. Print Suffled Deck
+3. Print Unshuffled Deck
+4. Print Player Info
+5. Quit
+Enter Selection: 5
+heart 3 unshuffled
+ is less than heart 4 unshuffled
+
+heart 4 unshuffled
+ is greater than heart 3 unshuffled
+
+]0;swilloughby@ecc-a-11vm14: ~/Documents/PA8swilloughby@ecc-a-11vm14:~/Documents/PA8$ exit
+exit
+
+Script done on Wed 01 Apr 2015 09:29:28 PM PDT
